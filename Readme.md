@@ -1,0 +1,2 @@
+Simple project to grow skills in python. Script gets a song lyrics from page 'http://teksty.org/czeslaw-spiewa,teksty-piosenek', finds 
+a word with last letter that we input and replace it with inputed word. If we want to, script can message changed text to slack channel.
